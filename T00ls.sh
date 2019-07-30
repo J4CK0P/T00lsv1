@@ -15,11 +15,11 @@ pkg install sl
 sl
 sleep 0.4
 clear
-echo $bi"╔══════"$me"═══════"$cy"═══════"$me"═══════"$bi"══════╗"
-echo $bi"║              "               $bi"              ║"
+echo $bi"╔══════"$me"═══════"$cy"═══════"$me"═════"$bi"═══╗"
+echo $bi"║              "               $bi"                   ║"
 echo       $ku"   NAMA : <"$pur$nama$ku">"
 echo       $ku" Creator : <"$i"Azis Wirahadi>"
-echo $bi"║              "               $bi"              ║"
+echo $bi"║              "               $bi"                   ║"
 echo $bi"╚═"$cy"║☆║✥║☆║✥║☆║✥║☆║✥║☆║✥║☆║✥║☆║✥║☆║"$bi"═╝"
 sleep 0.5
 
@@ -41,11 +41,11 @@ if [ $pil = 1 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
-git clone https://github.com/J4CK0P/hack-jackop
+
 clear
-ls
+sl
 sleep 0.5
-cd $HOME/Toolsnew/hack-jackop
+cd $HOME/T00ls/hack-jackop
 python2 Brutefb.py
 fi
 
@@ -54,11 +54,11 @@ if [ $pil = 2 ]
 then
 clear
 figlet -f slant "TUNGGU..."|lolcat
-git clone https://github.com/4L13199/LITESPAM
+
 clear
-ls
+sl
 sleep 0.5
-cd $HOME/Toolsnew/LITESPAM
+cd $HOME/T00ls/LITESPAM
 sh LITESPAM.sh
 fi
 
@@ -69,9 +69,9 @@ clear
 figlet -f slant "TUNGGU..."|lolcat
 git clone https://github.com/rahmadxyz/ToolsLengkap
 clear
-ls
+sl
 sleep 0.5
-cd $HOME/Toolsnew/ToolsLengkap
+cd $HOME/T00ls/ToolsLengkap
 sh rahmad.sh
 fi
 
@@ -81,9 +81,10 @@ clear
 figlet -f slant "TUNGGU..."|lolcat
 git clone https://github.com/J4CK0P/fbguard
 clear
-ls
+sl
 sleep 0.5
-cd $HOME/Toolsnew/fbguard
+cd $HOME/T00ls/fbguard
+
 sh guard.sh
 fi
 
@@ -94,9 +95,9 @@ figlet -f slant "TUNGGU..."|lolcat
 git clone https://github.com/thewhiteh4t/seeker
 pkg install python3
 clear
-ls
+sl
 sleep 0.5
-cd $HOME/Toolsnew/seeker
+cd $HOME/T00ls/seeker
 python3 seeker.py
 fi
 
@@ -104,11 +105,11 @@ if [ $pil = 6 ]
 then
 clear
 figlet -f slant "TUNGGU..."|lolcat
-git clone https://github.com/J4CK0P/bomcall
+
 clear
-ls
+sl
 sleep 0.5
-cd $HOME/Toolsnew/bomcall
+cd $HOME/T00ls/bomcall
 sh bomcall.sh
 fi
 
@@ -118,9 +119,9 @@ clear
 figlet -f slant "W A I T"|lolcat
 git clone https://github.com/4L13199/LITEDDOS
 clear
-ls
+sl
 sleep 0.5
-cd $HOME/Toolsnew/LITEDDOS
+cd $HOME/T00ls/LITEDDOS
 python2 LITEDDOS.py
 fi
 
