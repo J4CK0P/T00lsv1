@@ -15,7 +15,7 @@ pkg install sl
 sl
 sleep 0.4
 clear
-echo $bi"╔══════"$me"═══════"$cy"═══════"$me"═════"$bi"═══╗"
+echo $bi"╔══════"$me"═══════"$cy"═══════"$me"══════"$bi"═════╗"
 echo $bi"║              "               $bi"                   ║"
 echo       $ku"   NAMA : <"$pur$nama$ku">"
 echo       $ku" Creator : <"$i"Azis Wirahadi>"
