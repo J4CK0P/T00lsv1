@@ -42,8 +42,10 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 git clone https://github.com/J4CK0P/hack-jackop
-sleep 1
-cd $HOME/hack-jackop
+clear
+ls
+sleep 0.5
+cd $HOME/Toolsnew/hack-jackop
 python2 Brutefb.py
 fi
 
@@ -53,8 +55,10 @@ then
 clear
 figlet -f slant "TUNGGU..."|lolcat
 git clone https://github.com/4L13199/LITESPAM
-sleep 1
-cd $HOME/LITESPAM
+clear
+ls
+sleep 0.5
+cd $HOME/Toolsnew/LITESPAM
 sh LITESPAM.sh
 fi
 
@@ -64,8 +68,10 @@ then
 clear
 figlet -f slant "TUNGGU..."|lolcat
 git clone https://github.com/rahmadxyz/ToolsLengkap
-sleep 1
-cd $HOME/ToolsLengkap
+clear
+ls
+sleep 0.5
+cd $HOME/Toolsnew/ToolsLengkap
 sh rahmad.sh
 fi
 
@@ -74,8 +80,10 @@ then
 clear
 figlet -f slant "TUNGGU..."|lolcat
 git clone https://github.com/J4CK0P/fbguard
-sleep 1
-cd $HOME/fbguard
+clear
+ls
+sleep 0.5
+cd $HOME/Toolsnew/fbguard
 sh guard.sh
 fi
 
@@ -85,8 +93,10 @@ clear
 figlet -f slant "TUNGGU..."|lolcat
 git clone https://github.com/thewhiteh4t/seeker
 pkg install python3
-sleep 1
-cd $HOME/seeker
+clear
+ls
+sleep 0.5
+cd $HOME/Toolsnew/seeker
 python3 seeker.py
 fi
 
@@ -95,8 +105,10 @@ then
 clear
 figlet -f slant "TUNGGU..."|lolcat
 git clone https://github.com/J4CK0P/bomcall
-sleep 1
-cd $HOME/bomcall
+clear
+ls
+sleep 0.5
+cd $HOME/Toolsnew/bomcall
 sh bomcall.sh
 fi
 
@@ -105,8 +117,10 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 git clone https://github.com/4L13199/LITEDDOS
-sleep 1
-cd $HOME/LITEDDOS
+clear
+ls
+sleep 0.5
+cd $HOME/Toolsnew/LITEDDOS
 python2 LITEDDOS.py
 fi
 
@@ -117,5 +131,6 @@ figlet -f slant "T E R I M A"|lolcat
 figlet -f slant " K A S I H " | lolcat
 sleep 1
 clear
-exit
+pkg install cmatrix
+cmatrix
 fi
