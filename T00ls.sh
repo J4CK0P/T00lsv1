@@ -16,7 +16,7 @@ pkg install sl
 
 clear
 python2 osas.py
-
+clear
 figlet -f slant "T 0 0 l s v 1" | lolcat
 echo $bi"╔══════"$me"═══════"$cy"═══════"$me"══════"$bi"═════╗"
 echo $bi"║              "               $bi"                   ║"
