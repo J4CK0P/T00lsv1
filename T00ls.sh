@@ -17,7 +17,7 @@ pkg install sl
 clear
 python2 osas.py
 
-figlet T00ls By J4CKOP
+figlet -f slant "T00lsv1" | lolcat
 echo $bi"╔══════"$me"═══════"$cy"═══════"$me"══════"$bi"═════╗"
 echo $bi"║              "               $bi"                   ║"
 echo       $ku"   NAMA : <"$pur$nama$ku">"
@@ -48,7 +48,7 @@ figlet -f slant "W A I T"|lolcat
 clear
 sl
 sleep 0.5
-cd $HOME/T00ls/hack-jackop
+cd $HOME/T00lsv1/hack-jackop
 python2 Brutefb.py
 fi
 
@@ -61,7 +61,7 @@ figlet -f slant "TUNGGU..."|lolcat
 clear
 sl
 sleep 0.5
-cd $HOME/T00ls/LITESPAM
+cd $HOME/T00lsv1/LITESPAM
 sh LITESPAM.sh
 fi
 
@@ -74,7 +74,7 @@ git clone https://github.com/rahmadxyz/ToolsLengkap
 clear
 sl
 sleep 0.5
-cd $HOME/T00ls/ToolsLengkap
+cd $HOME/T00lsv1/ToolsLengkap
 sh rahmad.sh
 fi
 
@@ -86,7 +86,7 @@ git clone https://github.com/J4CK0P/fbguard
 clear
 sl
 sleep 0.5
-cd $HOME/T00ls/fbguard
+cd $HOME/T00lsv1/fbguard
 
 sh guard.sh
 fi
@@ -96,11 +96,11 @@ then
 clear
 figlet -f slant "TUNGGU..."|lolcat
 git clone https://github.com/thewhiteh4t/seeker
-pkg install python3
+
 clear
 sl
 sleep 0.5
-cd $HOME/T00ls/seeker
+cd $HOME/T00lsv1/seeker
 python3 seeker.py
 fi
 
@@ -112,7 +112,7 @@ figlet -f slant "TUNGGU..."|lolcat
 clear
 sl
 sleep 0.5
-cd $HOME/T00ls/bomcall
+cd $HOME/T00lsv1/bomcall
 sh bomcall.sh
 fi
 
@@ -124,7 +124,7 @@ git clone https://github.com/4L13199/LITEDDOS
 clear
 sl
 sleep 0.5
-cd $HOME/T00ls/LITEDDOS
+cd $HOME/T00lsv1/LITEDDOS
 python2 LITEDDOS.py
 fi
 
