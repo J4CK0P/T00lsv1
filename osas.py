@@ -21,7 +21,7 @@ def main():
 
         if uname == Nick :
 
-                pwd = raw_input('Jabatan: ')
+                pwd = raw_input('Password: ')
 
 
 
