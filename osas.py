@@ -25,7 +25,7 @@ def main():
 
 
 
-                if pwd == Jabatan :
+                if pwd == Password :
                         print "\033[1;32mAlhmdllh sudah masuk juga..",
 
                         sys.exit()
@@ -35,7 +35,7 @@ def main():
 
                 else:
 
-                        print "\033[1;32mMaaf Masukkan Jabatan  Anda salah... [?]\033[00m"
+                        print "\033[1;32mMaaf Masukkan Password  Anda salah... [?]\033[00m"
                         print "Silahkan segera log-in kembali...!!\n"
 
                         restart()
