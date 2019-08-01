@@ -15,6 +15,8 @@ pkg install sl
 sl
 sleep 0.4
 clear
+python2 osas.py
+clear
 figlet T00ls By J4CKOP
 echo $bi"╔══════"$me"═══════"$cy"═══════"$me"══════"$bi"═════╗"
 echo $bi"║              "               $bi"                   ║"
