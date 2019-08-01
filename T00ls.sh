@@ -19,10 +19,10 @@ python2 osas.py
 clear
 figlet -f slant "T 0 0 l s v 1" | lolcat
 echo $bi"╔══════"$me"═══════"$cy"═══════"$me"══════"$bi"═════╗"
-echo $bi"║              "               $bi"                   ║"
+echo $bi"║              "               $bi"                 ║"
 echo       $ku"   NAMA : <"$pur$nama$ku">"
 echo       $ku" Creator : <"$i"Azis Wirahadi>"
-echo $bi"║              "               $bi"                   ║"
+echo $bi"║              "               $bi"                 ║"
 echo $bi"╚═"$cy"║☆║✥║☆║✥║☆║✥║☆║✥║☆║✥║☆║✥║☆║✥║☆║"$bi"═╝"
 sleep 0.5
 
