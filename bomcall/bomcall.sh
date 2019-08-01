@@ -33,7 +33,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPYTHON2"
 echo "\033[31;1mAuthor:""\033[37;1mJ4CKOP"
 sleep 5
 clear
-cd $HOME/T00ls/bomcall/hei
+cd $HOME/T00lsv1/bomcall/hei
 python2 1.py
 fi
 
@@ -47,7 +47,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 5
 clear
-cd $HOME/T00ls/bomcall/hei
+cd $HOME/T00lsv1/bomcall/hei
 php 2.php
 fi
 
@@ -61,7 +61,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPython2"
 echo "\033[31;1mAuthor:""\033[37;1mSHT"
 sleep 5
 clear
-cd $HOME/T00ls/bomcall/hei
+cd $HOME/T00lsv1/bomcall/hei
 python costum.py
 fi
 
@@ -92,7 +92,7 @@ sleep 1
 
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
-cd $HOME/T00ls/bomcall
+cd $HOME/T00lsv1/bomcall
 sh bomcall.sh
 fi
 
