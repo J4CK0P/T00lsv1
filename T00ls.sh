@@ -17,7 +17,7 @@ pkg install sl
 clear
 python2 osas.py
 
-figlet -f slant "T00lsv1" | lolcat
+figlet -f slant "T 0 0 l s v 1" | lolcat
 echo $bi"╔══════"$me"═══════"$cy"═══════"$me"══════"$bi"═════╗"
 echo $bi"║              "               $bi"                   ║"
 echo       $ku"   NAMA : <"$pur$nama$ku">"
